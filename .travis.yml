@@ -1,4 +1,4 @@
-sudo: true
+sudo: required
 language: python
 install:
  - pip install -r requirements.txt
